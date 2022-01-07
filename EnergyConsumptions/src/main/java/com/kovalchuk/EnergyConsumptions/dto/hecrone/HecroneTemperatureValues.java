@@ -1,4 +1,4 @@
-package com.kovalchuk.EnergyConsumptions.dto.hecroneLine;
+package com.kovalchuk.EnergyConsumptions.dto.hecrone;
 
 import lombok.Data;
 

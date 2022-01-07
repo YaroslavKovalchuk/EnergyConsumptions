@@ -1,4 +1,4 @@
-package com.kovalchuk.EnergyConsumptions.dto.daubLine;
+package com.kovalchuk.EnergyConsumptions.dto.daub;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.kovalchuk.EnergyConsumptions.dto.Hasborg;
+package com.kovalchuk.EnergyConsumptions.dto.hasborg;
 
 import java.util.Date;
 
